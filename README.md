@@ -23,7 +23,8 @@ A command-line tool to search for "good-first-issue" labeled GitHub issues acros
    cargo build
    cargo run
 3. Output
-   ![image](https://github.com/user-attachments/assets/b95f6592-8d94-472d-a2d5-666ffe25551f)
+
+![image](https://github.com/user-attachments/assets/b95f6592-8d94-472d-a2d5-666ffe25551f)
 
 ## Project Structure
 - `src/main.rs`: The main file that contains the Rust code for fetching GitHub issues and handling CLI interactions.
